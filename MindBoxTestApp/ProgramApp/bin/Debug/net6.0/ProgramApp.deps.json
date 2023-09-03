@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "ProgramApp/1.0.0": {
+        "dependencies": {
+          "MindBoxApp": "1.0.0"
+        },
+        "runtime": {
+          "ProgramApp.dll": {}
+        }
+      },
+      "MindBoxApp/1.0.0": {
+        "runtime": {
+          "MindBoxApp.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ProgramApp/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "MindBoxApp/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

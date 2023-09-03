@@ -1,0 +1,12 @@
+E:\темур\курсач ООП\MindBoxTestApp\MindBoxTestApp\bin\Debug\net6.0\MindBoxApp.deps.json
+E:\темур\курсач ООП\MindBoxTestApp\MindBoxTestApp\bin\Debug\net6.0\MindBoxApp.dll
+E:\темур\курсач ООП\MindBoxTestApp\MindBoxTestApp\bin\Debug\net6.0\MindBoxApp.pdb
+E:\темур\курсач ООП\MindBoxTestApp\MindBoxTestApp\obj\Debug\net6.0\MindBoxApp.csproj.AssemblyReference.cache
+E:\темур\курсач ООП\MindBoxTestApp\MindBoxTestApp\obj\Debug\net6.0\MindBoxApp.GeneratedMSBuildEditorConfig.editorconfig
+E:\темур\курсач ООП\MindBoxTestApp\MindBoxTestApp\obj\Debug\net6.0\MindBoxApp.AssemblyInfoInputs.cache
+E:\темур\курсач ООП\MindBoxTestApp\MindBoxTestApp\obj\Debug\net6.0\MindBoxApp.AssemblyInfo.cs
+E:\темур\курсач ООП\MindBoxTestApp\MindBoxTestApp\obj\Debug\net6.0\MindBoxApp.csproj.CoreCompileInputs.cache
+E:\темур\курсач ООП\MindBoxTestApp\MindBoxTestApp\obj\Debug\net6.0\MindBoxApp.dll
+E:\темур\курсач ООП\MindBoxTestApp\MindBoxTestApp\obj\Debug\net6.0\refint\MindBoxApp.dll
+E:\темур\курсач ООП\MindBoxTestApp\MindBoxTestApp\obj\Debug\net6.0\MindBoxApp.pdb
+E:\темур\курсач ООП\MindBoxTestApp\MindBoxTestApp\obj\Debug\net6.0\ref\MindBoxApp.dll
